@@ -1,0 +1,27 @@
+{
+  "name": "@tylerbrostrom/prettier-config",
+  "version": "0.1.0",
+  "description": "My personal prettier config",
+  "type": "commonjs",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerbrostrom/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Tyler Brostrom <tyler@tylerbrostrom.com>",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/tylerbrostrom/prettier-config/issues"
+  },
+  "homepage": "https://github.com/tylerbrostrom/prettier-config#readme"
+}
